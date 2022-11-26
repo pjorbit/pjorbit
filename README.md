@@ -3,7 +3,7 @@
 - 🔭 Estudante de Front-end
 - 🌱 Atualmente faço Técnico em Informática, com foco em linguagem C, Javascript, PHP e Java
 - 🤔 Estou em busca de uma vaga na área de desenvolvimento web
-- ⚡ Aprofundando meus estudos em React
+- ⚡ Aprofundando meus estudos em React Native
 
 <div align="center">
   <a href="https://github.com/pjorbit">
